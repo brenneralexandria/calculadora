@@ -5,11 +5,12 @@ export const ButtonContainer = styled.button `
     border: 1px solid #cdcdcd;
     background-color: #ffffff;
     color: #000;
-    font-size: 24px;
-    font-weight: 700;
+    font-size: 30px;
+    font-weight: 500;
     flex: 1;
     margin-top: 20px;
     border: none;
+    cursor: pointer;
 
 
     &:hover {
